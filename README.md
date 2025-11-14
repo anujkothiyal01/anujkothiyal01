@@ -1,15 +1,6 @@
-create a readme file code for my github profile - <!--
-  NEXT-GEN GitHub Profile README for Anuj Kothiyal
-  - Place profile image at: assets/profile.jpg
-  - Optional site screenshot at: assets/cortexbloom-screenshot.png
-  - Replace usernames & links below if needed
--->
+
 
 <!-- HERO / HEADER -->
-<p align="center">
-  <img src="assets/profile.jpg" alt="Anuj Kothiyal" width="160" style="border-radius:50%; box-shadow: 0 8px 30px rgba(2,6,23,0.4);" />
-</p>
-
 <h1 align="center">🚀 Anuj Kothiyal</h1>
 <p align="center"><strong>Backend & Data Engineer • AI/ML • LLMs & RAG • Multi-Cloud Certified</strong></p>
 
