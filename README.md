@@ -1,10 +1,7 @@
-<!-- HERO / HEADER -->
-
 <h1 align="center">🚀 Anuj Kothiyal</h1>
 
 <p align="center"><strong>Backend & Data Engineer • AI/ML • LLMs & RAG • Multi-Cloud Certified</strong></p>
 
-<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="mailto:anujkothiyal01@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-007BFF?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -62,15 +59,15 @@ As the Core Developer for **CortexBloom** (my Personal AI Lab), I am actively bu
 
 ## 🏆 Certifications
 <p align="center">
-  <a href="https://www.credly.com/badges/f986d1dd-8b1d-4a94-a417-6a84d110ea52" target="_blank">
-    <img alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/anuj-kothiyal/credentials/7bd56b10346c348c" target="_blank">
-    <img alt="Azure Data Fundamentals" src="https://img.shields.io/badge/Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  </a>
-  <a href="https://directory.snowflake.com/profile/82b4b820-57ba-4077-ab95-50cc808e8999?search_term=anuj%20kothiyal&page=1" target="_blank">
-    <img alt="SnowPro Core" src="https://img.shields.io/badge/SnowPro%20Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  </a>
+<a href="https://www.credly.com/badges/f986d1dd-8b1d-4a94-a417-6a84d110ea52" target="_blank">
+<img alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/en-us/users/anuj-kothiyal/credentials/7bd56b10346c348c" target="_blank">
+<img alt="Azure Data Fundamentals" src="https://img.shields.io/badge/Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</a>
+<a href="https://directory.snowflake.com/profile/82b4b820-57ba-4077-ab95-50cc808e8999?search_term=anuj%20kothiyal&page=1" target="_blank">
+<img alt="SnowPro Core" src="https://img.shields.io/badge/SnowPro%20Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+</a>
 </p>
 
 ---
