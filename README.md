@@ -16,7 +16,7 @@
 
 <!-- BADGES -->
 <p align="center">
-  <img alt="Status" src="https://img.shields.io/badge/status-building%20daily-0cf?style=for-the-badge&logo=ghost" />
+  <img alt="Status" src="https://img.shields.io/badge/status-building%20daily-blue?style=for-the-badge" />
   <img alt="Role" src="https://img.shields.io/badge/Role-Software%20Engineer%20%7C%20Data%20Engineer-blue?style=for-the-badge" />
   <img alt="Certs" src="https://img.shields.io/badge/Certifications-AWS%20%7C%20Azure%20%7C%20Snowflake-orange?style=for-the-badge" />
   <img alt="Stack" src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20Spark-orange?style=for-the-badge" />
